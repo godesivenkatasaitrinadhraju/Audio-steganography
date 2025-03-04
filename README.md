@@ -65,11 +65,5 @@ Applications
 🔹 Digital Watermarking – Protecting ownership of digital content.
 🔹 Covert Messaging – Concealed transmission of sensitive information.
 
-**Contributors**
-**Godesi Venkata Sai Trinadh Raju
-Gundavarapu Durga Sivani
-Singamsetti Swetha
-Ayinaparthi Sahithi Supriya
-Kshathri Bhanu Samyuktha**
 **License**
 This project is licensed under the MIT License.
